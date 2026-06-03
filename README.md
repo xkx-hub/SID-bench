@@ -5,7 +5,7 @@
 
 Official repository for **SID-Bench**, introduced in the paper:  
 **"Semantic-Aware Interruption Detection in Spoken Dialogue Systems: Benchmark, Metric, and Model"** (arXiv:2603.24144)  
-*Joint work by Qwen Team (Alibaba) and Independent Researchers.*
+*Joint work by Qwen Team (Alibaba).*
 
 ---
 
